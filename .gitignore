@@ -1,0 +1,11 @@
+bin/*
+!bin/.gitkeep
+old/
+tmp/*
+!tmp/.gitkeep
+test/
+
+*.dll
+*.exe
+
+.DS_Store
